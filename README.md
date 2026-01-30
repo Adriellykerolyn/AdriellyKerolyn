@@ -17,7 +17,7 @@
 
 Sou estudante de **Engenharia de Software** e pós-graduanda em **Estrutura e Gestão de Redes de Computadores**, com formação complementar em **Back-end, Dados e Sistemas Web**.
 
-Tenho vivência prática em projetos tecnológicos voltados à gestão, com foco em:
+Tenho vivência prática em projetos tecnológicos voltados à gestão pública, com foco em:
 
 - Organização e estruturação de informações  
 - Análise de dados e apoio à criação de dashboards  
