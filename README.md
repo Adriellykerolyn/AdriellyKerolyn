@@ -5,7 +5,7 @@
 
 ---
 
-### 🛠️ Tecnologias
+### 🛠️ Tecnologias que estudo e utilizo
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,django,java,js,html,css,postgres,git,github" />
